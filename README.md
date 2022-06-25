@@ -1,6 +1,6 @@
 # Screen shot of my first react native app 
-![1](https://user-images.githubusercontent.com/7909908/175772166-0b0321bf-c16e-4427-8224-b361cc83115d.png)
-![2](https://user-images.githubusercontent.com/7909908/175772192-d7d94c53-dcde-4b91-932b-00ebfe1c8f4d.png)
-![3](https://user-images.githubusercontent.com/7909908/175772196-4ecef7c9-682b-4ef7-b890-2647ec37921b.png)
-![4](https://user-images.githubusercontent.com/7909908/175772200-e62b6440-1687-43e3-8b8c-cfe13e152cc0.png)
-![5](https://user-images.githubusercontent.com/7909908/175772201-9d48588b-4d3e-4681-94a4-dcc10154d637.png)
+![1](https://user-images.githubusercontent.com/7909908/175772312-06c0a09f-409f-43b7-bd7d-1c8f9f0f3a1f.png)
+![2](https://user-images.githubusercontent.com/7909908/175772316-0992919f-71e7-4c19-b85c-00d668589d36.png)
+![3](https://user-images.githubusercontent.com/7909908/175772322-35141a3c-e7b8-432f-bea8-6910e168c4dc.png)
+![4](https://user-images.githubusercontent.com/7909908/175772324-974bb9fd-c4e8-41c8-b796-4c944b7d2bed.png)
+![5](https://user-images.githubusercontent.com/7909908/175772327-e9f0efd6-212f-46aa-9e77-8a792a4d6044.png)
